@@ -2,7 +2,7 @@
 """
     + Graph Class: A class to represent a graph with vertices (number of vertices) and graph (a list to store graph edges).
     + add_edge: A function to add an edge to the graph.
-    +find: A function to find the subset of an element i.
+    + find: A function to find the subset of an element i.
     + union: A function to perform the union of two subsets.
     + kruskal_mst: The main function to construct the Minimum Spanning Tree using Kruskal's algorithm.
     
